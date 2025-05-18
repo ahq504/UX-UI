@@ -1,0 +1,15 @@
+# ПЗ-3 Робота з простими формами та їх властивостями у Figma. Створення геометричного візерунку
+
+## Виконала:
+**Солохненко Дмитро**  
+**Група:** ІПЗ-2.03
+
+---
+Усі файли доступні в репозиторії на GitHub.
+
+## Frame 1:
+![1](https://github.com/nadyavozna/UX-UI-N.Vozna/blob/main/workshop_7/Frame%201.svg)
+
+
+
+Посилання на проєкт у [Figma](https://www.figma.com/design/Nv1xvKKvXfm3tei01Z77DS/Workshop-7?node-id=0-1&t=mqMAzXPJWSDUXynZ-1)

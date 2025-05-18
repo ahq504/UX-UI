@@ -8,7 +8,7 @@
 Усі файли доступні в репозиторії на GitHub.
 
 ## ICONS:
-![1](https://github.com/nadyavozna/UX-UI-N.Vozna/blob/main/workshop_5/Frame%201.svg)
+![1](https://github.com/ahq504/UX-UI/blob/main/workshop_5/icons2.png)
 
 
 Посилання на проєкт у [Figma](https://www.figma.com/design/iuquT6zKfcRwcLQ1HEsolW/Workshop-5?node-id=0-1&t=pkeONQ1vXwcgNNFh-1)

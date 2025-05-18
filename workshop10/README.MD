@@ -11,7 +11,7 @@
 
 Головна сторінка:
 
-![1](https://github.com/nadyavozna/UX-UI-N.Vozna/blob/main/workshop_10/Frame%201.png)
+![1](https://github.com/ahq504/UX-UI/blob/main/workshop10/Frame%201.png)
 
 Натискання "Каталогу" у хедері:
 ![2](https://github.com/nadyavozna/UX-UI-N.Vozna/blob/main/workshop_10/Frame%202.png)

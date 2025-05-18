@@ -20,8 +20,8 @@
 
 Зв'язки прототипу:
 
-![image](https://github.com/user-attachments/assets/3a8f9a9c-b783-4f6d-acd2-42316e7e3945)
+![image](https://github.com/ahq504/UX-UI/blob/main/workshop10/2025-05-18_23-50.png)
 
-Посилання на проєкт у [Figma](https://www.figma.com/design/FVcnCDVZujuJPXbKeS7LQo/10?node-id=1-4431&t=8HNCvtyUulQJjDKs-1)
+Посилання на проєкт у [Figma](https://www.figma.com/design/kWssp3Pdh1mN6rPXVRqrdk/Workshop-10?node-id=0-1&t=WIj08PAtF9zIZ4c8-1)
 
-Посилання на прототип у [Figma](https://www.figma.com/proto/FVcnCDVZujuJPXbKeS7LQo/10?page-id=1%3A4431&node-id=1-4432&p=f&viewport=377%2C150%2C0.15&t=68OPHw9EuoSC33ig-1&scaling=contain&content-scaling=fixed)
+Посилання на прототип у [Figma](https://www.figma.com/proto/kWssp3Pdh1mN6rPXVRqrdk/Workshop-10?page-id=0%3A1&node-id=1-352&viewport=196%2C87%2C0.29&t=PDwHRckbIjqPy4ws-1&scaling=min-zoom&content-scaling=fixed)

@@ -13,14 +13,10 @@
 
 ![1](https://github.com/ahq504/UX-UI/blob/main/workshop10/Frame%201.png)
 
-Натискання "Каталогу" у хедері:
-![2](https://github.com/nadyavozna/UX-UI-N.Vozna/blob/main/workshop_10/Frame%202.png)
+![2](https://github.com/ahq504/UX-UI/blob/main/workshop10/Frame%203.png)
 
-Каталог при натисканні на "Переглянути палітру":
-![3](https://github.com/nadyavozna/UX-UI-N.Vozna/blob/main/workshop_10/Frame%203.png)
+![3](https://github.com/ahq504/UX-UI/blob/main/workshop10/Frame%204.png)
 
-Сторінка товару "Гель-лак Cutie - David 12 мл":
-![4](https://github.com/nadyavozna/UX-UI-N.Vozna/blob/main/workshop_10/Frame%204.png)
 
 Зв'язки прототипу:
 

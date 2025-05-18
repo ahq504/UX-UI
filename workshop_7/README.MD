@@ -8,7 +8,7 @@
 Усі файли доступні в репозиторії на GitHub.
 
 ## Frame 1:
-![1](https://github.com/nadyavozna/UX-UI-N.Vozna/blob/main/workshop_7/Frame%201.svg)
+![1](https://github.com/ahq504/UX-UI/blob/main/workshop_7/patterns.png)
 
 
 
